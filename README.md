@@ -19,12 +19,14 @@ use of the program involves inputting a command, establishing a type to operate 
 and specifying a series of arguments to the command
 
 > sort artist
+
 > show artist
 
 these commands first sorts the artist counter
 on a most-first basis and then outputs it to the screen
 
 > sort artist
+
 > show
 
 stating the type is not necessary for the second command
@@ -51,7 +53,9 @@ find -  how many songs by specific artist/albums/ext
 group - how many songs by groups of artist/albums/ext
 
 > total
+
 > find album -a "High Violet" -b
+
 > sort artist | group -t 10 -p
 
 outputs the number of songs in your library
