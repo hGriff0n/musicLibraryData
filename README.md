@@ -11,6 +11,7 @@ You can then request the program to perform
 various actions to the gathered data including sorting, showing, and infometrics.
 
 :: Basics ::
+========
 
 the program consists of a series of commands (sort, show, help, info, exit, exec)
 and a series of types (artist, album, ext)
