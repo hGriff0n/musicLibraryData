@@ -11,7 +11,7 @@ You can then request the program to perform
 various actions to the gathered data including sorting, showing, and infometrics.
 
 :: Basics ::
-========
+======
 
 the program consists of a series of commands (sort, show, help, info, exit, exec)
 and a series of types (artist, album, ext)
@@ -47,6 +47,7 @@ the internal state to be set to the passed value after execution is finished
 type help [cmd] to learn more about it's arguments
 
 :: Infometrics ::
+======
 
 the program provides three commands useful for infometrics ( total, find, group )
 total - how many songs are in your library
